@@ -17,7 +17,7 @@ Yeni teknolojiler öğrenmeye, projeler geliştirmeye ve yazılım dünyasında 
 
 ## 📈 GitHub İstatistikleri
 ![Aişe'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=aisedemiral&show_icons=true&theme=radical)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aisedemiral)
+
 
 
 ---
