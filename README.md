@@ -1,26 +1,47 @@
+# 💻 Print("Hello World!") 
 
-# 👋 Merhaba! Ben Mümine Aişe Demiral
+### 👩‍💻 About Me  
+I’m **Mümine Aişe Demiral**, a Computer Engineering student.  
+I work with **C#, Java, Python, .NET, and SQL**, and I’m particularly interested in **Artificial Intelligence**.  
+I’m passionate about exploring new technologies, developing innovative projects, and continuously improving my skills in the world of software development.  
 
-Merhaba, GitHub hesabıma hoş geldiniz! Bilgisayar mühendisi 2.sınıf öğrencisiyim ve C#, java, .NET, SQL ve veri bilimi gibi konularda çalışmalar yapıyorum.
-Yeni teknolojiler öğrenmeye, projeler geliştirmeye ve yazılım dünyasında kendimi geliştirmeye büyük ilgi duyuyorum.
----
-
-## 🚀 Yeteneklerim
-- **Programlama Dilleri**: C, C#, Python, Java
-- **Veritabanı Yönetimi**: SQL
-- **Araçlar ve Teknolojiler**: .NET, Git, GitHub, Rider, Docker
-
-## 📫 Bana Ulaşın
-- **LinkedIn**: https://www.linkedin.com/in/mümine-aişe-demiral?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BR7%2BE5PNtSeeUGgFM%2FH5eKA%3D%3D
-- **Email**: mumineaise@gmail.com
-  
-
-## 📈 GitHub İstatistikleri
-![Aişe'nin GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=aisedemiral&show_icons=true&theme=radical)
-
-
+**Interests:**  
+- Web & desktop application development  
+- Database management  
+- Software architectures  
+- Learning new technologies  
+- Teamwork & open-source contributions  
 
 ---
 
-**Bu profil ve projelerim hakkında görüşlerinizi ve önerilerinizi duymaktan mutluluk duyarım!**
+### 🔧 Skills  
 
+**Programming Languages:**  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+
+**Database Management:**  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+**Tools & Technologies:**  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
+![Rider](https://img.shields.io/badge/-Rider-000000?style=flat&logo=jetbrains&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+---
+
+### 📬 Contact Me  
+- 📧 **E-mail:** [mumineaise@gmail.com](mailto:mumineaise@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/mümine-aişe-demiral](https://www.linkedin.com/in/mümine-aişe-demiral-27a3352a2)  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aisedemiral&show_icons=true&theme=radical" alt="Mümine's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisedemiral&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=aisedemiral&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
+</p>
